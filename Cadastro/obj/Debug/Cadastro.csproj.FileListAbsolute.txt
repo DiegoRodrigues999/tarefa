@@ -1,0 +1,3 @@
+C:\Users\diego.roliveira18\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\diego.roliveira18\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego.roliveira18\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
